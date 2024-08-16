@@ -53,6 +53,11 @@
         <img src="https://avatars.githubusercontent.com/u/80630499?v=4" width="20" height="20" style="border-radius:50%" alt="alpergulsenn" />
         <strong>Alper Gülşen</strong> - Full Stack Developer
     </a>
+    <br>
+    <a href="https://github.com/Erehhs/" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/160514780?v=4" width="20" height="20" style="border-radius:50%" alt="Erehhs" />
+        <strong>Eren Şaban Arslan</strong> - Database Designer
+    </a>
 </p>
 
 
