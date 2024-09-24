@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="160" src="https://media.licdn.com/dms/image/v2/D4D3DAQF48zUnGXlJCQ/image-scale_191_1128/image-scale_191_1128/0/1723304135931/stars42_cover?e=1724364000&v=beta&t=WBNmIIK0IDeMK6-ToiecHR_G1UXLmU01YnUA9zE484s"  />
+  <img height="160" src="https://raw.githubusercontent.com/stars42/.github/refs/heads/main/profile/assets/banner.png"  />
 </div>
 
 ###
